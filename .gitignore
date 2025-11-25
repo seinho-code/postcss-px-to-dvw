@@ -6,3 +6,4 @@ node_modules
 .idea
 yarn.lock
 dist
+package-lock.json

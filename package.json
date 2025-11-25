@@ -1,17 +1,19 @@
 {
-  "name": "@zocenet/postcss-px-to-viewport",
-  "description": "A CSS post-processor that converts px to viewport units (vw, vh, vmin, vmax).",
-  "version": "0.0.3",
-  "author": "SeinHo <shenghao@zocenet.com>",
+  "name": "postcss-px-to-dvw",
+  "description": "A CSS post-processor that converts px to dynamic viewport units (vw, vh, vmin, vmax).",
+  "version": "0.0.1",
+  "author": "SeinHo <javascript.sh@gmail.com>",
   "license": "MIT",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hosein-code/postcss-px-to-viewport.git"
+    "url": "https://github.com/hosein-code/postcss-px-to-dvw.git"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "keywords": [
     "css",
     "units",
